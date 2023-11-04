@@ -40,4 +40,6 @@ Currently tenpro can only compute the tensor product of two Z[G]-complexes at a 
 1. Computation of the tensor product of more than two Z[G]-complexes at a time.
 2. Allow Z[G]-complexes that contain trivial differentials.
 
-If you encouter bugs or have any questions, please send an e-mail to d.iltgen@bluewin.ch
+# Note
+
+While working on this program, the author Damian Iltgen was supported by the Emmy Noether Programme of the DFG, project number 412851057.
